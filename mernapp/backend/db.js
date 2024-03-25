@@ -68,5 +68,5 @@ async function fetchData() {
 
 // };
 
-module.exports = mongoDB;
+module.exports = mongoDB; 
  
